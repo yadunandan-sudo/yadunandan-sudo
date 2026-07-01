@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Gagan Kumar
+# 👋 Hey, I'm Yadunandan
 
 🎓 Computer Applications Graduate | Aspiring Software Engineer
 💻 Full Stack Developer | AI & ML Enthusiast
