@@ -1,21 +1,21 @@
-# 👋 Hey, I'm Yadunandan
+# 👋 Hey, I'm Gagan Kumar
 
-🎓 Computer Science Student | Aspiring Software Developer  
-💻 Full Stack Developer | AI & ML Enthusiast  
-🚀 Passionate about Data Science, Machine Learning, Web Development, and Problem Solving.  
+🎓 Computer Applications Graduate | Aspiring Software Engineer
+💻 Full Stack Developer | AI & ML Enthusiast
+🚀 Passionate about Software Engineering, Data Science, Machine Learning, Web Development, and Problem Solving.
 📚 Continuously learning new technologies and building innovative projects.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadunandan-sudo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagan80501)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadunandan-b-a-94255a341?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yadunandan__shetty_?igsh=MXA3MTlhZzJwZ25ueg==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadunandanbaa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
@@ -32,34 +32,36 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Database
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 📊 Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
 ## 🚀 About Me
 
-✨ Aspiring Software Developer with a passion for uncovering insights from data
+✨ Aspiring Software Engineer passionate about solving real-world problems through technology.
 
-🤖 Exploring Artificial Intelligence and Machine Learning
+🤖 Exploring Artificial Intelligence and Machine Learning.
 
-🌐 Building responsive and scalable web applications
+🌐 Building responsive and scalable full-stack web applications.
 
-📊 Skilled in data analysis, visualization, and predictive modeling
+📊 Interested in data analysis, visualization, and predictive modeling.
 
-📚 Dedicated to continuous learning and technical growth
+📚 Always learning new technologies and improving my development skills.
 
-🤝 Open to internships, collaborations, and exciting opportunities
+🤝 Open to internships, collaborations, and software engineering opportunities.
 
 ---
 
@@ -73,16 +75,23 @@
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Featured Projects
 
-🔹 Data Science & Machine Learning
-
-🔹 Full Stack Web Development
-
-🔹 Software Development
-
-🔹 Real-World AI Applications
+- 🐶 Dog Breed Classification & Information Generation
+- 📊 Road Accident Data Analysis (EDA)
+- 🌐 Full Stack Web Applications
+- 🤖 AI & Machine Learning Projects
 
 ---
 
-⭐ *"Turning Data into Insights and Ideas into Reality."*
+## 🎯 Current Focus
+
+- 🔹 Software Engineering
+- 🔹 Full Stack Development
+- 🔹 Artificial Intelligence
+- 🔹 Machine Learning
+- 🔹 Data Science
+
+---
+
+⭐ **"Turning Ideas into Reality Through Code."**
