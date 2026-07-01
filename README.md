@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Yadunandan
 
-🎓 BCA Student | Aspiring Software Developer  
+🎓 Computer Science Student | Aspiring Software Developer  
 💻 Full Stack Developer | AI & ML Enthusiast  
 🚀 Passionate about Data Science, Machine Learning, Web Development, and Problem Solving.  
 📚 Continuously learning new technologies and building innovative projects.
